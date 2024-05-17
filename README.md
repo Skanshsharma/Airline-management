@@ -1,2 +1,2 @@
-# Airline-managemnet
+# Airline-management
 Even semester group project
